@@ -1,4 +1,22 @@
 # Simulation
+This repository offers a comprehensive guide to mastering popular circuit simulation software, from beginner-friendly introductions to advanced analysis techniques.  We explore each simulator, starting with its interface and features, then covering component selection and usage, and finally, in-depth circuit analysis.
+
+The following simulators are covered:
+*   Proteus
+*   LTSpice
+*   TINA
+*   Matlab Simulink
+*   Altium Designer
+*   PSIM
+*   Plecs
+*   Ansys Maxwell
+
+Our structured learning approach for each simulator includes:
+1.  **Environment Exploration:** Understanding the software's interface, tools, and functionalities, including menus, toolbars, and windows.
+2.  **Component Handling:** Learning to locate, select, and use components, including component libraries, placement, and parameter configuration.
+3.  **DC Analysis:** Performing DC analysis to determine a circuit's DC operating point, including setting up sources, defining parameters, and interpreting results.
+4.  **Transient Analysis:** Observing circuit behavior over time by setting up time-dependent sources, defining simulation duration, and analyzing waveforms.
+5.  **AC Analysis/Frequency Response:** Determining a circuit's response to varying frequencies by setting up AC sources, defining frequency ranges, and analyzing frequency response plots.
 
 # 💻 How to Use Git and GitHub
 
