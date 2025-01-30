@@ -40,6 +40,31 @@ git clone https://github.com/aKaReZa75/Simulation
 
 **Note:** Please keep in mind that the numbers displayed in the image might vary when you perform the same actions. This is because repositories are continuously being updated and expanded. Nevertheless, the overall process remains unchanged.
 
+# Videos  
+- [aKaReZa 17 - Simulation, Introduction](https://youtu.be/VqN2q2Agd-M)  
+  ---  
+  In this video, we explore the definition, advantages, and disadvantages of simulation. We then introduce and compare several popular and widely used simulation software tools for electrical engineering.
+
+- [aKaReZa 19 - Simulation, Proteus, DC Analysis](https://youtu.be/DNlR-f8oeuQ)  
+  ---  
+  In this video, we learn how to create a new project in Proteus, find and use key components like resistors, capacitors, inductors, transistors, MOSFETs, diodes, and transformers, and perform DC analysis in Proteus.
+
+- [aKaReZa 32 - Simulation, Proteus, Transient & AC Analysis](https://youtu.be/yoHRWpZNOko)  
+  ---  
+  In this video, we learn how to perform transient and frequency response analysis in Proteus.
+
+- [aKaReZa 39 - Simulation, LTspice, Fast and Easy](https://youtu.be/E33UTtZUTCQ)  
+  ---  
+  In this video, we learn how to quickly bring all desired components into the LTSpice simulator and then perform DC analysis, transient analysis, and frequency response analysis.
+
+- [aKaReZa 48 - Simulation, TINA, Fast and Easy](https://youtu.be/6yHGW2FJB5s)  
+  ---  
+  In this video, we learn how to quickly bring all desired components into the TINA simulator and then perform DC analysis, transient analysis, and frequency response analysis.
+
+- [aKaReZa 62 - Simulation, MultiSim, Fast and Easy](https://youtu.be/FBaFGeCysRk)  
+  ---  
+  In this video, we learn how to quickly select desired components in the MultiSim simulator, perform DC analysis, transient analysis, and frequency response analysis. We also explore the unique features of this simulator and its advantages over other general simulators.
+
 # 📝 How to Ask Questions
 If you have any questions or issues, you can raise them through the **"Issues"** section of this repository. Here's how you can do it:  
 
