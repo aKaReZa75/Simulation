@@ -18,6 +18,9 @@ Our structured learning approach for each simulator includes:
 4.  **Transient Analysis:** Observing circuit behavior over time by setting up time-dependent sources, defining simulation duration, and analyzing waveforms.
 5.  **AC Analysis/Frequency Response:** Determining a circuit's response to varying frequencies by setting up AC sources, defining frequency ranges, and analyzing frequency response plots.
 
+> [!CAUTION]
+> It is absolutely critical that you carefully read every single word of this document, line by line, to ensure you don't miss any details. Nothing can be overlooked.
+
 # 💻 How to Use Git and GitHub
 To access the repository files and save them on your computer, there are two methods available:
 1. **Using Git Bash and Cloning the Repository**
