@@ -1,6 +1,9 @@
 # Simulation
 This repository offers a comprehensive guide to mastering popular circuit simulation software, from beginner-friendly introductions to advanced analysis techniques.  We explore each simulator, starting with its interface and features, then covering component selection and usage, and finally, in-depth circuit analysis.
 
+> [!CAUTION]
+> It is absolutely critical that you carefully read every single word of this document, line by line, to ensure you don't miss any details. Nothing can be overlooked.
+
 The following simulators are covered:
 *   Proteus
 *   LTSpice
@@ -18,8 +21,17 @@ Our structured learning approach for each simulator includes:
 4.  **Transient Analysis:** Observing circuit behavior over time by setting up time-dependent sources, defining simulation duration, and analyzing waveforms.
 5.  **AC Analysis/Frequency Response:** Determining a circuit's response to varying frequencies by setting up AC sources, defining frequency ranges, and analyzing frequency response plots.
 
-> [!CAUTION]
-> It is absolutely critical that you carefully read every single word of this document, line by line, to ensure you don't miss any details. Nothing can be overlooked.
+# 🔗 Resources
+   Here you'll find a collection of useful links and documents related to simulators and their applications. These resources include datasheets, tutorials, and essential tools to get you started and guide you through.
+  
+> [!TIP]
+> The resources are detailed in the sections below.  
+> To access any of them, simply click on the corresponding blue link.
+
+- [Video PlayList](./Videos.md)
+  ---  
+  All educational videos related to this topic are available at this link.  
+
 
 # 💻 How to Use Git and GitHub
 To access the repository files and save them on your computer, there are two methods available:
@@ -96,31 +108,6 @@ Follow these steps:
 > - No Updates: Keep in mind that downloading the repository as a ZIP file does not allow you to receive updates.    
 >   If the repository is updated, you will need to download it again manually.  
 > - Ease of Use: This method is simpler and suitable for users who are not comfortable with Git or command-line tools.
-
-# Videos  
-- [aKaReZa 17 - Simulation, Introduction](https://youtu.be/VqN2q2Agd-M)  
-  ---  
-  In this video, we explore the definition, advantages, and disadvantages of simulation. We then introduce and compare several popular and widely used simulation software tools for electrical engineering.
-
-- [aKaReZa 19 - Simulation, Proteus, DC Analysis](https://youtu.be/DNlR-f8oeuQ)  
-  ---  
-  In this video, we learn how to create a new project in Proteus, find and use key components like resistors, capacitors, inductors, transistors, MOSFETs, diodes, and transformers, and perform DC analysis in Proteus.
-
-- [aKaReZa 32 - Simulation, Proteus, Transient & AC Analysis](https://youtu.be/yoHRWpZNOko)  
-  ---  
-  In this video, we learn how to perform transient and frequency response analysis in Proteus.
-
-- [aKaReZa 39 - Simulation, LTspice, Fast and Easy](https://youtu.be/E33UTtZUTCQ)  
-  ---  
-  In this video, we learn how to quickly bring all desired components into the LTSpice simulator and then perform DC analysis, transient analysis, and frequency response analysis.
-
-- [aKaReZa 48 - Simulation, TINA, Fast and Easy](https://youtu.be/6yHGW2FJB5s)  
-  ---  
-  In this video, we learn how to quickly bring all desired components into the TINA simulator and then perform DC analysis, transient analysis, and frequency response analysis.
-
-- [aKaReZa 62 - Simulation, MultiSim, Fast and Easy](https://youtu.be/FBaFGeCysRk)  
-  ---  
-  In this video, we learn how to quickly select desired components in the MultiSim simulator, perform DC analysis, transient analysis, and frequency response analysis. We also explore the unique features of this simulator and its advantages over other general simulators.
 
 # 📝 How to Ask Questions
 If you have any questions or issues, you can raise them through the **"Issues"** section of this repository. Here's how you can do it:  
