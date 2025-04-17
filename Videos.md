@@ -25,6 +25,10 @@ In this document, all videos related to the simulators are provided, along with 
   ---  
   In this video, we learn how to quickly select desired components in the MultiSim simulator, perform DC analysis, transient analysis, and frequency response analysis. We also explore the unique features of this simulator and its advantages over other general simulators.
 
+- [aKaReZa 99 - Simulation, Altium Designer, Fast and Easy](https://youtu.be/oy_LQTaLBMg)  
+  ---  
+  In this video, learn how to simulate electronic circuits in Altium Designer. From installing simulation tools to performing various analyses like DC, Transient, DC Sweep, and AC Analysis, everything is covered to help you test your designs accurately and effortlessly before building.
+
 # 🌟 Support Me
 If you found this repository useful:
 - Subscribe to my [YouTube Channel](https://www.youtube.com/@aKaReZa75).
