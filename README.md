@@ -1,9 +1,6 @@
 # Simulation
 This repository offers a comprehensive guide to mastering popular circuit simulation software, from beginner-friendly introductions to advanced analysis techniques.  We explore each simulator, starting with its interface and features, then covering component selection and usage, and finally, in-depth circuit analysis.
 
-> [!CAUTION]
-> It is absolutely critical that you carefully read every single word of this document, line by line, to ensure you don't miss any details. Nothing can be overlooked.
-
 The following simulators are covered:
 *   Proteus
 *   LTSpice
@@ -39,7 +36,17 @@ Our structured learning approach for each simulator includes:
              alt="aKaReZa 95 - Programming, Git - PART B Thumbnail"/>
       </a>
     </td>
+
+  </td>
   </tr>
+  <tr>
+  <td colspan="2">
+
+  > [!CAUTION]
+  > It is absolutely critical that you carefully read every single word of this document, line by line, to ensure you don't miss any details. Nothing can be overlooked.
+      
+  </td>
+  </tr>  
 </table>
 
 # 🔗 Resources
