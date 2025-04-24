@@ -21,11 +21,26 @@ Our structured learning approach for each simulator includes:
 4.  **Transient Analysis:** Observing circuit behavior over time by setting up time-dependent sources, defining simulation duration, and analyzing waveforms.
 5.  **AC Analysis/Frequency Response:** Determining a circuit's response to varying frequencies by setting up AC sources, defining frequency ranges, and analyzing frequency response plots.
 
-> [!TIP]
-> If you're looking to better understand how to navigate and use my GitHub repositories — including exploring their structure, downloading or cloning projects, submitting issues, and asking questions 
-> everything you need is clearly explained in this video:  
-> [aKaReZa 95 - Programming, Git - PART B](https://youtu.be/zYiUItVFRqQ)   
-> Make sure to check it out!
+<table>
+  <tr>
+  <td valign="top">
+  
+  > [!TIP]  
+  > If you're looking to better understand how to navigate and use my GitHub repositories — including exploring their structure, downloading or cloning projects, submitting issues, and asking questions,  
+  > everything you need is clearly explained in this video:  
+  > [aKaReZa 95 - Programming, Git - PART B](https://youtu.be/zYiUItVFRqQ)  
+  > Make sure to check it out!
+  
+  </td>
+    <td width="360" valign="middle" style="padding: 0;">
+      <a href="https://youtu.be/zYiUItVFRqQ">
+       <img src="https://img.youtube.com/vi/zYiUItVFRqQ/maxresdefault.jpg"
+             width="360"
+             alt="aKaReZa 95 - Programming, Git - PART B Thumbnail"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 # 🔗 Resources
    Here you'll find a collection of useful links and documents related to simulators and their applications. These resources include datasheets, tutorials, and essential tools to get you started and guide you through.
